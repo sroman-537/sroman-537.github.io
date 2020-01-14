@@ -9,14 +9,17 @@ h2{
 color: green;
 }
 h1,h2{
-color:purple
+color:green;
 }
-li
 li.food{
 color: orange;
+text-align: center;
+background-color: greenyellow;
 }
 li{
 color: orchid;
+text-align: right;
+background-color: pink;
 }
 h2{
 font-style: italic;
