@@ -1,0 +1,50 @@
+body{
+    background-color: whitesmoke;
+}
+h1{
+font-size: 100px;
+}
+h1{
+color:gold;
+}
+h2{
+color:purple;
+}
+h3{
+color:black;text-shadow: black;
+}
+li{
+color:blanchedalmond;
+text-align: right;
+background-color:plum;
+}
+nav.navbar{
+color:red;
+text-align: right;
+background-color:red;
+}
+h2{
+font-style: italic;
+}
+h3{
+font-style: bold;
+}
+p{
+text-align: justify;
+}
+img.LBJ1{
+width: 250px;
+}
+img.LBJ2{
+width: 300px;
+}
+img.LBJ3{
+width: 400px;
+}
+a.navbar-brand{
+font-style: oblique;
+}
+tr{
+    background-color:purple;
+    font-style: italic;
+ }
